@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Oculus/Interaction/Samples/Scenes/Features/HandGrab.unity
+    guid: 1ca1035b12c67f24d81e7bc5ad627d76
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4e7743f0a40cf734c8b69be06506dd9f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7d726b35b74da474397625e28cf16cb2, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b2929ca4324aaee4cb0a204ebd313be2, type: 2}
