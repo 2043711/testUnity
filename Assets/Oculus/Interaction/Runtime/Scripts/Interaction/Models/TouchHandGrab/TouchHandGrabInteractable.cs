@@ -47,7 +47,6 @@ namespace Oculus.Interaction
             Assert.IsTrue(_colliders.Count > 0);
             _colliderGroup = new ColliderGroup(_colliders, _boundsCollider);
         }
-
         #region Inject
 
         public void InjectAllTouchHandGrabInteractable(Collider boundsCollider, List<Collider> colliders)

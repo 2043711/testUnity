@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Oculus/Interaction/Samples/Scenes/Features/HandGrab.unity
-    guid: 1ca1035b12c67f24d81e7bc5ad627d76
+    path: Assets/Scenes/SceneEchec.unity
+    guid: c7dfa8e02cb7208499673a8353234dad
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4e7743f0a40cf734c8b69be06506dd9f, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7d726b35b74da474397625e28cf16cb2, type: 2}
